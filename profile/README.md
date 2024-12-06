@@ -12,10 +12,10 @@ NextDevLab은 프로그래밍 및 소프트웨어 설계 역량을 강화하기 
 ---
 
 ## 👥 **참여 인원**
-| 팀원 | 팀원 | 팀원 | 팀원 |
-|------|------|------|------|
-| <img src="https://github.com/JAEKWANG97.png" width="80"><br>[유재광](https://github.com/JAEKWANG97) | <img src="https://github.com/JiHunparkkk.png" width="80"><br>[박지훈](https://github.com/JiHunparkkk) | <img src="https://github.com/enduf7686.png" width="80"><br>[김두열](https://github.com/enduf7686) | <img src="https://github.com/MJ-Kor.png" width="80"><br>[김민주](https://github.com/MJ-Kor) |
-| <img src="https://github.com/dain0826.png" width="80"><br>[손다인](https://github.com/dain0826) |
+| 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
+|------|------|------|------|------|
+| <img src="https://github.com/JAEKWANG97.png" width="80"><br>[유재광](https://github.com/JAEKWANG97) | <img src="https://github.com/JiHunparkkk.png" width="80"><br>[박지훈](https://github.com/JiHunparkkk) | <img src="https://github.com/enduf7686.png" width="80"><br>[김두열](https://github.com/enduf7686) | <img src="https://github.com/MJ-Kor.png" width="80"><br>[김민주](https://github.com/MJ-Kor) | <img src="https://github.com/dain0826.png" width="80"><br>[손다인](https://github.com/dain0826) |
+
 
 ---
 
